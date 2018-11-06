@@ -1,0 +1,27 @@
+
+body{
+  background-color: black;
+  background-attachment: fixed;
+
+}
+div{
+  color:white;
+  font-size: 20px;
+  font-family: 'Anton', sans-serif;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+.content {
+  padding: 20px;
+  margin: 10px;
+}
+.Aligner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
